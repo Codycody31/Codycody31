@@ -1,16 +1,27 @@
-### Hi there 👋
+# Codycody31
 
-<!--
-**Codycody31/Codycody31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Codycody31's GitHub stats](https://github-readme-stats.vercel.app/api?username=codycody31)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full-stack developer and aviation enthusiast based in Jacksonville, FL. I have a passion for building performant and intuitive web applications, collaborating with others, and constantly learning and improving. 
+
+Outside of coding, I enjoy participating in airsoft, contributing to open-source projects, and being an active member of my local Boy Scout troop.
+
+## Skills
+
+- Web Development: HTML, CSS, JavaScript, Vue, Laravel, Docker
+- Server Administration: Linux, Windows Server
+- Databases: MySQL, MongoDB
+- Version Control: Git
+
+## Projects
+
+- [vATC Suite](https://github.com/VMGWARE/vATCSuite): vATC Suite provides virtual air traffic controllers with tools to generate and deliver essential airport information.
+- [DynamoDB Table Migration Tool](https://github.com/VMGWARE/DynamoDB-Table-Migration-Tool): A C++ utility to automate the creation of DynamoDB tables from JSON files using the AWS CLI.
+
+## Contact Info 
+
+- Website: [vahngomes.dev](https://vahngomes.dev/)
+- Email: me@vahngomes.dev
+- LinkedIn: [linkedin.com/in/vahn-gomes](https://www.linkedin.com/in/vahn-gomes/)
