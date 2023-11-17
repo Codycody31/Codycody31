@@ -19,6 +19,7 @@ Outside of coding, I enjoy participating in airsoft, contributing to open-source
 
 - [vATC Suite](https://github.com/VMGWARE/vATCSuite): vATC Suite provides virtual air traffic controllers with tools to generate and deliver essential airport information.
 - [DynamoDB Table Migration Tool](https://github.com/VMGWARE/DynamoDB-Table-Migration-Tool): A C++ utility to automate the creation of DynamoDB tables from JSON files using the AWS CLI.
+- [Prevent OCI Deletion for being idle](https://github.com/Codycody31/Prevent-OCI-Deletion-for-being-idle): Scripts to maintain active OCI ForeverFree tier instances, preventing deletions due to inactivity.
 
 ## Contact Info 
 
