@@ -4,25 +4,29 @@
 
 ## About Me
 
-I'm a full-stack developer and aviation enthusiast based in Jacksonville, FL. I have a passion for building performant and intuitive web applications, collaborating with others, and constantly learning and improving. 
+I'm a full-stack developer and aviation enthusiast based in Florida! I love writing code, working with others, and then randomly deciding to commit to projects when I have too much stuff to do, but I am bored.
 
-Outside of coding, I enjoy participating in airsoft, contributing to open-source projects, and being an active member of my local Boy Scout troop.
+Outside of programming, I enjoy playing airsoft and contributing to open-source projects.
 
-## Skills
+## Random
 
-- Web Development: HTML, CSS, JavaScript, Vue, Laravel, Docker
-- Server Administration: Linux, Windows Server
-- Databases: MySQL, MongoDB
-- Version Control: Git
+If you have a project in mind, contact me! I am always looking for fun projects to work on.
 
-## Projects
+## My Github Stats 
+  
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codycody31&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
 
-- [vATC Suite](https://github.com/VMGWARE/vATCSuite): vATC Suite provides virtual air traffic controllers with tools to generate and deliver essential airport information.
-- [DynamoDB Table Migration Tool](https://github.com/VMGWARE/DynamoDB-Table-Migration-Tool): A C++ utility to automate the creation of DynamoDB tables from JSON files using the AWS CLI.
-- [Prevent OCI Deletion for being idle](https://github.com/Codycody31/Prevent-OCI-Deletion-for-being-idle): Scripts to maintain active OCI ForeverFree tier instances, preventing deletions due to inactivity.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codycody31&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
 
-## Contact Info 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Codycody31&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
+  
+## Github Trophies
 
-- Website: [vahngomes.dev](https://vahngomes.dev/)
-- Email: me@vahngomes.dev
-- LinkedIn: [linkedin.com/in/vahn-gomes](https://www.linkedin.com/in/vahn-gomes/)
+<img src="https://github-profile-trophy.vercel.app/?username=Codycody31&theme=algolia&column=5">
+
+## Wakatime Stats
+ <p>
+    <img src="https://wakatime.com/share/@Insidious_Fiddler/8fca668c-2b44-436e-9cd2-079a201e719b.svg" height="320" width="420">
+ </p> 
+  
+</body>
