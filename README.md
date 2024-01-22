@@ -1,6 +1,6 @@
 # Codycody31
 
-[![Codycody31's GitHub stats](https://github-readme-stats.vercel.app/api?username=codycody31)](https://github.com/anuraghazra/github-readme-stats)
+[![Codycody31's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codycody31&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Codycody31)
 
 ## About Me
 
@@ -10,15 +10,13 @@ Outside of programming, I enjoy playing airsoft and contributing to open-source 
 
 ## Random
 
-If you have a project in mind, contact me! I am always looking for fun projects to work on.
+If you have a project in mind, contact me! I am always looking for fun projects to work on. I have worked with Go, PHP, JavaScript, TypeScript, Mongo, and MySQL for the most part. With some dabbling in other languages such as C++, and C# as needed.
 
 ## My Github Stats 
-  
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codycody31&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codycody31&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codycody31&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Codycody31)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Codycody31&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Codycody31&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Codycody31's streak" /></p>
   
 ## Github Trophies
 
