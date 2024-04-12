@@ -6,7 +6,7 @@
 
 I'm a full-stack developer and aviation enthusiast based in Florida! I love writing code, working with others, and then randomly deciding to commit to projects when I have too much stuff to do, but I am bored.
 
-Outside of programming, I enjoy playing airsoft and contributing to open-source projects.
+Outside of programming, I enjoy playing airsoft and contributing to open-source projects(this is all I do lol).
 
 ## Random
 
